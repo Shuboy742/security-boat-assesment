@@ -22,12 +22,3 @@ In Mobile
 
 Use Route <Domain>/A_D_M_I_N ----
 Edit .env And Set Email, Password & Secret
-
-## For Any Query
-
-Masage Us On https://www.instagram.com/code.diggers/
-
-Subscribe Our Channel https://www.youtube.com/channel/UCcbZ7AmY35Kps985i5UIIKA
-
-## deploy
-Use Heroku For Deployment
